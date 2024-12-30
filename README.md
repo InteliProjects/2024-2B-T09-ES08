@@ -27,9 +27,9 @@ Conceber e implementar requisitos de arquitetura de uma plataforma de apoio a in
   - https://github.com/Inteli-College/2024-2B-T09-ES08-G03
 
 - Grupo 4 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T09-ES08-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-2B-T09-ES08-G04
   - https://github.com/Inteli-College/2024-2B-T09-ES08-G04
 
 - Grupo 5 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T09-ES08-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-2B-T09-ES08-G05
   - https://github.com/Inteli-College/2024-2B-T09-ES08-G05
